@@ -1,0 +1,32 @@
+batch_size:
+  - 512
+learning_rate:
+  - 0.001
+weight_decay:
+  - 0.0005
+epochs:
+  - 300
+dropout:
+  - 0
+early_stopper:
+  -
+    patience: 60
+    use_loss: False
+
+shuffle:
+  - True
+GNN_layers:
+  - 1
+  - 2
+  - 3
+cross_MLP_layers:
+  - 1
+X_dim:
+  - 125
+M_dim:
+  - 125
+sim_mutl_method:
+  - lamb: 3
+  - lamb: 4
+inner_dim:
+  - 125
