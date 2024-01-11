@@ -3,7 +3,7 @@
 ## File
 GNN_hyper_model.yml : Adjusting the hyperparameter search range for 'Weighted sum' 
 
-GNN_mutl_hyper_model.yml: Adjusting the hyperparameter search range for ' Scaling regularizatio'
+GNN_mutl_hyper_model.yml: Adjusting the hyperparameter search range for ' Scaling regularization'
 
 ## RUN
 ```
