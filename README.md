@@ -16,7 +16,7 @@ Please cite our paper if you use this code in your own work:
 @article{pei2024saliency,
   title={Saliency-Aware Regularized Graph Neural Network},
   author={Pei, Wenjie and Xu, Weina and Wu, Zongze and Li, Weichao and Wang, Jinfan and Lu, Guangming and Wang, Xiangrong},
-  journal={arXiv preprint arXiv:2401.00755},
+  journal={Artificial Intelligence (AIJ)},
   year={2024}
 }
 ```
