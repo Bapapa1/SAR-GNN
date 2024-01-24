@@ -13,7 +13,7 @@ Here we provide the implementation of a SAR-GCN layer in Pytorch, along with a e
   - Data pre-processing program （```data_splits.py```,```mask_data.py```,```social_degree.py```）
   - Utilities (```utils.py```)
   - The implementation of the Graph Neural Memory layer (```M_layers.py```)
-  - The End-to-end training program (```Rcperiment.py```)
+  - The End-to-end training program (```Experiment.py```)
   
 
 
