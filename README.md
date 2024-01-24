@@ -18,8 +18,11 @@ Here we provide the implementation of a SAR-GCN layer in Pytorch, along with a e
 
 
 ## RUN
+Run ```main.py```, the main script file used for training and/or testing the model. The following options are supported:
 ```
-python main.py
+python main.py [--cuda] [--seed] [--data_config] [--detail] [--log_every]
+               [--heads] [--outer_folds] [--Integration_method] [--GNN_models]
+               [--repeat] [--dataset_name] [--local_rank]
 ```
 
 ## Cite
