@@ -1,4 +1,15 @@
 # Saliency-Aware Regularized Graph Neural Network(SAR-GNN)
+## Overview
+
+Here we provide the implementation of a SAR-GCN layer in Pytorch, along with a execution example (on the MUTAG dataset). The repository is organised as follows:
+
++ ```GNN_models/```contains the implementation of the backbone network, e.g GCN.py (the code of SAR-GCN)
++ ```K_fold/``` contains the [evaluation framwork](https://arxiv.org/abs/1912.09893). 
++ ```hyper_config/```
++ ```models/```
+  
+
+
 
 ## File
 GNN_hyper_model.yml : Adjusting the hyperparameter search range for 'Weighted sum' 
