@@ -1,7 +1,7 @@
 # Saliency-Aware Regularized Graph Neural Network(SAR-GNN)
 
 
-
+![Architecture of the Saliency-Aware Regularized Graph Neural Network (SARGNN).](https://github.com/Bapapa1/SAR-GNN/blob/main/framwork.jpg?raw=true)
 ## Overview
 
 Here we provide the implementation of a SAR-GCN layer in Pytorch, along with a execution example (on the MUTAG dataset). The repository is organised as follows:
